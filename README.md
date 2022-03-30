@@ -1,2 +1,3 @@
 # Bitter-DF-Cleaning
-Cleaning and analyzing a data frame which consists 300 columns 
+Cleaning and analyzing a data frame which consists 310 columns for preperation to apply ML model to it.
+Including visualisations and correaltions. 
